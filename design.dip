@@ -658,8 +658,8 @@
                 <FontItalic>0</FontItalic>
                 <FontBold>0</FontBold>
                 <TextRes>
-                  <Min>-5.102 1.632</Min>
-                  <Max>9.183 10.168</Max>
+                  <Min>-5.659 1.533</Min>
+                  <Max>9.741 10.267</Max>
                 </TextRes>
                 <UseCeiling>1</UseCeiling>
                 <RenderPlinth>1</RenderPlinth>
@@ -849,6 +849,10 @@
                     <Group>12</Group>
                     <Id>229</Id>
                   </N24>
+                  <N25>
+                    <Group>12</Group>
+                    <Id>233</Id>
+                  </N25>
                 </Children>
                 <Aabb2d>
                   <Min>-2.885 7</Min>
@@ -1850,8 +1854,8 @@
                 <FontItalic>0</FontItalic>
                 <FontBold>0</FontBold>
                 <TextRes>
-                  <Min>-5.102 1.632</Min>
-                  <Max>9.183 10.168</Max>
+                  <Min>-5.659 1.533</Min>
+                  <Max>9.741 10.267</Max>
                 </TextRes>
                 <UseCeiling>1</UseCeiling>
                 <RenderPlinth>1</RenderPlinth>
@@ -2065,6 +2069,10 @@
                     <Group>12</Group>
                     <Id>230</Id>
                   </N30>
+                  <N31>
+                    <Group>12</Group>
+                    <Id>232</Id>
+                  </N31>
                 </Children>
                 <Aabb2d>
                   <Min>-2.885 -0.075</Min>
@@ -2150,8 +2158,8 @@
                 <FontItalic>0</FontItalic>
                 <FontBold>0</FontBold>
                 <TextRes>
-                  <Min>-5.102 1.632</Min>
-                  <Max>9.183 10.168</Max>
+                  <Min>-5.659 1.533</Min>
+                  <Max>9.741 10.267</Max>
                 </TextRes>
                 <UseCeiling>1</UseCeiling>
                 <RenderPlinth>1</RenderPlinth>
@@ -2333,6 +2341,10 @@
                     <Group>12</Group>
                     <Id>227</Id>
                   </N22>
+                  <N23>
+                    <Group>12</Group>
+                    <Id>231</Id>
+                  </N23>
                 </Children>
                 <Aabb2d>
                   <Min>-0.01 -0.075</Min>
@@ -2610,8 +2622,8 @@
                 <FontItalic>0</FontItalic>
                 <FontBold>0</FontBold>
                 <TextRes>
-                  <Min>-5.102 1.632</Min>
-                  <Max>9.183 10.168</Max>
+                  <Min>-5.659 1.533</Min>
+                  <Max>9.741 10.267</Max>
                 </TextRes>
                 <UseCeiling>1</UseCeiling>
                 <RenderPlinth>1</RenderPlinth>
@@ -5919,7 +5931,7 @@
                   </N0>
                 </Doors>
                 <Height>1.999999881</Height>
-                <BeginH>-0.09571968019</BeginH>
+                <BeginH>9.506000424e-06</BeginH>
                 <CanNormalRotate>1</CanNormalRotate>
                 <PathToModel>Models\Doors\1. Обычные двери\Дверь (800 x 2000 мм).dat</PathToModel>
                 <DoorOrWindow>1</DoorOrWindow>
@@ -6120,7 +6132,7 @@
                   </N0>
                 </Doors>
                 <Height>1.999999881</Height>
-                <BeginH>7.125</BeginH>
+                <BeginH>0.01077574026</BeginH>
                 <CanNormalRotate>1</CanNormalRotate>
                 <PathToModel>Models\Doors\1. Обычные двери\Дверь (600 x 2000 мм).dat</PathToModel>
                 <DoorOrWindow>1</DoorOrWindow>
@@ -6513,7 +6525,7 @@
                 </Windows>
                 <Doors/>
                 <Height>1.420000076</Height>
-                <BeginH>-2.499000072</BeginH>
+                <BeginH>-0.9993547201</BeginH>
                 <CanNormalRotate>1</CanNormalRotate>
                 <PathToModel>Models\Windows\3. Тройное окно\Тройное окно (2080 x 1420 мм).dat</PathToModel>
                 <DoorOrWindow>2</DoorOrWindow>
@@ -6714,7 +6726,7 @@
                   </N0>
                 </Doors>
                 <Height>1.999999881</Height>
-                <BeginH>-0.7596767545</BeginH>
+                <BeginH>0.6078969836</BeginH>
                 <CanNormalRotate>1</CanNormalRotate>
                 <PathToModel>Models\Doors\1. Обычные двери\Дверь (800 x 2000 мм).dat</PathToModel>
                 <DoorOrWindow>1</DoorOrWindow>
@@ -6915,7 +6927,7 @@
                   </N0>
                 </Doors>
                 <Height>1.999999881</Height>
-                <BeginH>-4.170683861</BeginH>
+                <BeginH>0</BeginH>
                 <CanNormalRotate>1</CanNormalRotate>
                 <PathToModel>Models\Doors\1. Обычные двери\Дверь (800 x 2000 мм).dat</PathToModel>
                 <DoorOrWindow>1</DoorOrWindow>
@@ -7116,7 +7128,7 @@
                   </N0>
                 </Doors>
                 <Height>1.999999881</Height>
-                <BeginH>7.199999809</BeginH>
+                <BeginH>0.02900000103</BeginH>
                 <CanNormalRotate>1</CanNormalRotate>
                 <PathToModel>Models\Doors\1. Обычные двери\Дверь (600 x 2000 мм).dat</PathToModel>
                 <DoorOrWindow>1</DoorOrWindow>
@@ -7413,7 +7425,7 @@
                 </Windows>
                 <Doors/>
                 <Height>1.400000095</Height>
-                <BeginH>-2.491714716</BeginH>
+                <BeginH>0.03846422955</BeginH>
                 <CanNormalRotate>1</CanNormalRotate>
                 <PathToModel>Models\Windows\2. Двойное окно\Двойное окно (1300 x 1400 мм).dat</PathToModel>
                 <DoorOrWindow>2</DoorOrWindow>
@@ -7614,7 +7626,7 @@
                   </N0>
                 </Doors>
                 <Height>1.999999881</Height>
-                <BeginH>-0.8218545318</BeginH>
+                <BeginH>-0.9702270627</BeginH>
                 <CanNormalRotate>1</CanNormalRotate>
                 <PathToModel>Models\Doors\1. Обычные двери\Дверь (600 x 2000 мм).dat</PathToModel>
                 <DoorOrWindow>1</DoorOrWindow>
@@ -7815,7 +7827,7 @@
                   </N0>
                 </Doors>
                 <Height>1.999999881</Height>
-                <BeginH>-1.980103731</BeginH>
+                <BeginH>0.7905570269</BeginH>
                 <CanNormalRotate>1</CanNormalRotate>
                 <PathToModel>Models\Doors\1. Обычные двери\Дверь (600 x 2000 мм).dat</PathToModel>
                 <DoorOrWindow>1</DoorOrWindow>
@@ -8112,7 +8124,7 @@
                 </Windows>
                 <Doors/>
                 <Height>2.120000124</Height>
-                <BeginH>6.381051064</BeginH>
+                <BeginH>0</BeginH>
                 <CanNormalRotate>1</CanNormalRotate>
                 <PathToModel>Models\Windows\4. Балконный блок\Балконный блок справа (1530 x 2120 мм).dat</PathToModel>
                 <DoorOrWindow>2</DoorOrWindow>
@@ -8313,7 +8325,7 @@
                   </N0>
                 </Doors>
                 <Height>2.079999924</Height>
-                <BeginH>-2.477431536</BeginH>
+                <BeginH>0.021163987</BeginH>
                 <CanNormalRotate>1</CanNormalRotate>
                 <PathToModel>Models\Doors\2. Арки и проемы\Проем без облицовки (900 x 2000 мм).dat</PathToModel>
                 <DoorOrWindow>1</DoorOrWindow>
@@ -8610,7 +8622,7 @@
                 </Windows>
                 <Doors/>
                 <Height>2.120000124</Height>
-                <BeginH>-0.9576681852</BeginH>
+                <BeginH>0.02240107022</BeginH>
                 <CanNormalRotate>1</CanNormalRotate>
                 <PathToModel>Models\Windows\4. Балконный блок\Балконный блок слева (1530 x 2120 мм).dat</PathToModel>
                 <DoorOrWindow>2</DoorOrWindow>
@@ -8823,7 +8835,7 @@
                 </Aabb2d>
                 <Angle>90</Angle>
                 <Scale>1 1</Scale>
-                <Pos>-0.2 0.46 2</Pos>
+                <Pos>-0.2 0.56 2</Pos>
                 <Visible>1</Visible>
                 <Ceiling>0</Ceiling>
                 <PresetedHeight>0</PresetedHeight>
@@ -8954,7 +8966,7 @@
                 </Aabb2d>
                 <Angle>270</Angle>
                 <Scale>1 1</Scale>
-                <Pos>0.18 0.46 2</Pos>
+                <Pos>0.18 0.56 2</Pos>
                 <Visible>1</Visible>
                 <Ceiling>0</Ceiling>
                 <PresetedHeight>0</PresetedHeight>
@@ -9336,7 +9348,7 @@
                 </Aabb2d>
                 <Angle>90</Angle>
                 <Scale>1 1</Scale>
-                <Pos>-0.091 1.045 2</Pos>
+                <Pos>-0.091 1.095 2</Pos>
                 <Visible>1</Visible>
                 <Ceiling>0</Ceiling>
                 <PresetedHeight>0</PresetedHeight>
@@ -10417,7 +10429,7 @@
                 </Aabb2d>
                 <Angle>90</Angle>
                 <Scale>1 1</Scale>
-                <Pos>-0.175 9.985 2</Pos>
+                <Pos>-0.175 10.035 2</Pos>
                 <Visible>1</Visible>
                 <Ceiling>0</Ceiling>
                 <PresetedHeight>0</PresetedHeight>
@@ -12380,7 +12392,7 @@
                 </Aabb2d>
                 <Angle>270</Angle>
                 <Scale>1 1</Scale>
-                <Pos>0.071 1.01 2</Pos>
+                <Pos>0.071 1.11 2</Pos>
                 <Visible>1</Visible>
                 <Ceiling>0</Ceiling>
                 <PresetedHeight>0</PresetedHeight>
@@ -12767,7 +12779,7 @@
                 </Aabb2d>
                 <Angle>90</Angle>
                 <Scale>1 1</Scale>
-                <Pos>4.119 1.013 2</Pos>
+                <Pos>4.119 1.063 2</Pos>
                 <Visible>1</Visible>
                 <Ceiling>0</Ceiling>
                 <PresetedHeight>0</PresetedHeight>
@@ -12949,7 +12961,7 @@
                 </Aabb2d>
                 <Angle>270</Angle>
                 <Scale>1 1</Scale>
-                <Pos>-2.729 1.03 2</Pos>
+                <Pos>-2.729 1.08 2</Pos>
                 <Visible>1</Visible>
                 <Ceiling>0</Ceiling>
                 <PresetedHeight>0</PresetedHeight>
@@ -12972,6 +12984,132 @@
                 <McdXml>PAA/AHgAbQBsACAAdgBlAHIAcwBpAG8AbgA9ACIAMQAuADAAIgAgAGUAbgBjAG8AZABpAG4AZwA9ACIAVQBUAEYALQA4ACIAPwA+AA0ACgA8AE0AbwBkAGUAbAA+AA0ACgA8AEcAcgBvAHUAcAA+ADUAMAAxADwALwBHAHIAbwB1AHAAPgANAAoAPABOAGEAbQBlAD4AIAQ+BDcENQRCBDoEMAQgADIAMgAwABIEPAAvAE4AYQBtAGUAPgANAAoAPABNAGEAZwBuAGUAdABTAGkAZABlAD4AVAA8AC8ATQBhAGcAbgBlAHQAUwBpAGQAZQA+AA0ACgA8AEwAZQB2AGUAbAAyAEQAPgAxADwALwBMAGUAdgBlAGwAMgBEAD4ADQAKADwAVgBpAGUAdwBzADIARAA+AA0ACgA8AE4AMAA+AA0ACgA8AEMAbwBtAG0AdQBuAGkAYwBhAHQAaQBvAG4AVAB5AHAAZQBpAGQAPgAwADwALwBDAG8AbQBtAHUAbgBpAGMAYQB0AGkAbwBuAFQAeQBwAGUAaQBkAD4ADQAKADwALwBOADAAPgANAAoAPABOADEAPgANAAoAPABDAG8AbQBtAHUAbgBpAGMAYQB0AGkAbwBuAFQAeQBwAGUAaQBkAD4ANQA8AC8AQwBvAG0AbQB1AG4AaQBjAGEAdABpAG8AbgBUAHkAcABlAGkAZAA+AA0ACgA8AFAAYQB0AGgAPgBTAG8AYwBrAGUAdABzAEkAYwBvAG4ALgA1AC4AcAByAGUAdgBpAGUAdwA8AC8AUABhAHQAaAA+AA0ACgA8AFMAaQB6AGUAPgAwAC4AMgA0ACAAMAAuADIANAA8AC8AUwBpAHoAZQA+AA0ACgA8AEMAbwBuAG4AZQBjAHQAaQBvAG4AUwBpAGQAZQBzAC8APgANAAoAPABDAG8AbgBuAGUAYwB0AGkAbwBuAFAAbwBpAG4AdABzAC8APgANAAoAPABNAHUAbAB0AGkAcABsAGUATABpAG4AawBlAGQAQwBvAG4AbgBlAGMAdABpAG8AbgBzAC8APgANAAoAPABBAHUAdABvAEMAbwBtAG0AZQBuAHQAPgBIAD0AJQBaACUAXABuACQAewBMAEgAPQAyAC4AMAB9ACQAewBJAE0ARwA9ADoAcwBvAGMAawBlAHQAcwB9ADwALwBBAHUAdABvAEMAbwBtAG0AZQBuAHQAPgANAAoAPAAvAE4AMQA+AA0ACgA8AE4AMgA+AA0ACgA8AEMAbwBtAG0AdQBuAGkAYwBhAHQAaQBvAG4AVAB5AHAAZQBpAGQAPgA2ADwALwBDAG8AbQBtAHUAbgBpAGMAYQB0AGkAbwBuAFQAeQBwAGUAaQBkAD4ADQAKADwAUABhAHQAaAA+AFMAbwBjAGsAZQB0AHMASQBjAG8AbgAuADYALgBwAHIAZQB2AGkAZQB3ADwALwBQAGEAdABoAD4ADQAKADwAUwBpAHoAZQA+ADAALgAyADQAIAAwAC4AMgA0ADwALwBTAGkAegBlAD4ADQAKADwAQwBvAG4AbgBlAGMAdABpAG8AbgBTAGkAZABlAHMALwA+AA0ACgA8AEMAbwBuAG4AZQBjAHQAaQBvAG4AUABvAGkAbgB0AHMAPgANAAoAPABOADAAPgANAAoAPABMAG8AYwBhAHQAaQBvAG4APgAwAC4ANQAgADAALgA1ADwALwBMAG8AYwBhAHQAaQBvAG4APgANAAoAPABMAGkAbgBlAFQAeQBwAGUAaQBkAD4ADQAKADYAMAAxACAANgAwADIAIAA2ADAAMwAgADYAMAA0ACAANgAwADUAIAA2ADAANwAgADYAMAA4ACAANgAwADkAIAA2ADIAMwAgADYAMgA0ADwALwBMAGkAbgBlAFQAeQBwAGUAaQBkAD4ADQAKADwALwBOADAAPgANAAoAPAAvAEMAbwBuAG4AZQBjAHQAaQBvAG4AUABvAGkAbgB0AHMAPgANAAoAPABNAHUAbAB0AGkAcABsAGUATABpAG4AawBlAGQAQwBvAG4AbgBlAGMAdABpAG8AbgBzAC8APgANAAoAPABBAHUAdABvAEMAbwBtAG0AZQBuAHQAPgBIAD0AJQBaACUAXABuACQAewBMAEgAPQAyAC4AMAB9ACQAewBJAE0ARwA9ADoAcwBvAGMAawBlAHQAcwB9ADwALwBBAHUAdABvAEMAbwBtAG0AZQBuAHQAPgANAAoAPAAvAE4AMgA+AA0ACgA8AC8AVgBpAGUAdwBzADIARAA+AA0ACgA8AC8ATQBvAGQAZQBsAD4A</McdXml>
                 <PreTransform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</PreTransform>
               </SecondN97>
+              <FirstN98>231</FirstN98>
+              <SecondN98>
+                <ModelId>1442</ModelId>
+                <Move3d>0 0 1.391</Move3d>
+                <Aabb>-0.385 -0.165 1.269 0.385 0.165 1.514</Aabb>
+                <Dimensions>0.77 0.2 0.245</Dimensions>
+                <ModelName>Кондиционер</ModelName>
+                <Path>Models\3D\8. Разное\Кондиционер.dat</Path>
+                <Parents>
+                  <N0>
+                    <Group>17</Group>
+                    <Id>30</Id>
+                  </N0>
+                </Parents>
+                <Children/>
+                <Aabb2d>
+                  <Min>-0.385 -0.1</Min>
+                  <Max>0.385 0.1</Max>
+                </Aabb2d>
+                <Angle>90</Angle>
+                <Scale>1 1</Scale>
+                <Pos>4.025 0.56 2</Pos>
+                <Visible>1</Visible>
+                <Ceiling>0</Ceiling>
+                <PresetedHeight>0</PresetedHeight>
+                <MirrorX>0</MirrorX>
+                <MirrorY>0</MirrorY>
+                <Behaviour>
+                  <LinkedToFloor>0</LinkedToFloor>
+                  <LinkedToCeil>0</LinkedToCeil>
+                  <CanMagnetToWallInt>1</CanMagnetToWallInt>
+                  <CanMagnetToWallExt>0</CanMagnetToWallExt>
+                  <LinkedToCurrentLevel>1</LinkedToCurrentLevel>
+                  <AllowPlacementOnUndergroundLevel>1</AllowPlacementOnUndergroundLevel>
+                  <ShowAutocomment>1</ShowAutocomment>
+                </Behaviour>
+                <AutoComment>
+                  <Group>4294967295</Group>
+                  <Id>4294967295</Id>
+                </AutoComment>
+                <PreTransform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</PreTransform>
+              </SecondN98>
+              <FirstN99>232</FirstN99>
+              <SecondN99>
+                <ModelId>1443</ModelId>
+                <Move3d>0 0 1.391</Move3d>
+                <Aabb>-0.385 -0.165 1.269 0.385 0.165 1.514</Aabb>
+                <Dimensions>0.77 0.2 0.245</Dimensions>
+                <ModelName>Кондиционер</ModelName>
+                <Path>Models\3D\8. Разное\Кондиционер.dat</Path>
+                <Parents>
+                  <N0>
+                    <Group>17</Group>
+                    <Id>24</Id>
+                  </N0>
+                </Parents>
+                <Children/>
+                <Aabb2d>
+                  <Min>-0.385 -0.1</Min>
+                  <Max>0.385 0.1</Max>
+                </Aabb2d>
+                <Angle>270</Angle>
+                <Scale>1 1</Scale>
+                <Pos>-2.635 0.56 2</Pos>
+                <Visible>1</Visible>
+                <Ceiling>0</Ceiling>
+                <PresetedHeight>0</PresetedHeight>
+                <MirrorX>0</MirrorX>
+                <MirrorY>0</MirrorY>
+                <Behaviour>
+                  <LinkedToFloor>0</LinkedToFloor>
+                  <LinkedToCeil>0</LinkedToCeil>
+                  <CanMagnetToWallInt>1</CanMagnetToWallInt>
+                  <CanMagnetToWallExt>0</CanMagnetToWallExt>
+                  <LinkedToCurrentLevel>1</LinkedToCurrentLevel>
+                  <AllowPlacementOnUndergroundLevel>1</AllowPlacementOnUndergroundLevel>
+                  <ShowAutocomment>1</ShowAutocomment>
+                </Behaviour>
+                <AutoComment>
+                  <Group>4294967295</Group>
+                  <Id>4294967295</Id>
+                </AutoComment>
+                <PreTransform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</PreTransform>
+              </SecondN99>
+              <FirstN100>233</FirstN100>
+              <SecondN100>
+                <ModelId>1444</ModelId>
+                <Move3d>0 0 1.391</Move3d>
+                <Aabb>-0.385 -0.165 1.269 0.385 0.165 1.514</Aabb>
+                <Dimensions>0.77 0.2 0.245</Dimensions>
+                <ModelName>Кондиционер</ModelName>
+                <Path>Models\3D\8. Разное\Кондиционер.dat</Path>
+                <Parents>
+                  <N0>
+                    <Group>17</Group>
+                    <Id>28</Id>
+                  </N0>
+                </Parents>
+                <Children/>
+                <Aabb2d>
+                  <Min>-0.385 -0.1</Min>
+                  <Max>0.385 0.1</Max>
+                </Aabb2d>
+                <Angle>270</Angle>
+                <Scale>1 1</Scale>
+                <Pos>-2.635 10.035 2</Pos>
+                <Visible>1</Visible>
+                <Ceiling>0</Ceiling>
+                <PresetedHeight>0</PresetedHeight>
+                <MirrorX>0</MirrorX>
+                <MirrorY>0</MirrorY>
+                <Behaviour>
+                  <LinkedToFloor>0</LinkedToFloor>
+                  <LinkedToCeil>0</LinkedToCeil>
+                  <CanMagnetToWallInt>1</CanMagnetToWallInt>
+                  <CanMagnetToWallExt>0</CanMagnetToWallExt>
+                  <LinkedToCurrentLevel>1</LinkedToCurrentLevel>
+                  <AllowPlacementOnUndergroundLevel>1</AllowPlacementOnUndergroundLevel>
+                  <ShowAutocomment>1</ShowAutocomment>
+                </Behaviour>
+                <AutoComment>
+                  <Group>4294967295</Group>
+                  <Id>4294967295</Id>
+                </AutoComment>
+                <PreTransform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</PreTransform>
+              </SecondN100>
             </Container>
           </Objects>
           <Stairs>
@@ -13683,7 +13821,7 @@ ${LH=2.0}${IMG=:sockets}</Text>
                 <RenderModes/>
                 <Editable>0</Editable>
                 <UseAnchor>1</UseAnchor>
-                <Anchor>4.119 1.013</Anchor>
+                <Anchor>4.119 1.063</Anchor>
                 <AnchorMoveable>0</AnchorMoveable>
                 <LinkedObject>
                   <Group>12</Group>
@@ -13836,7 +13974,7 @@ ${LH=2.0}${IMG=:sockets}</Text>
                 <RenderModes/>
                 <Editable>0</Editable>
                 <UseAnchor>1</UseAnchor>
-                <Anchor>-2.729 1.03</Anchor>
+                <Anchor>-2.729 1.08</Anchor>
                 <AnchorMoveable>0</AnchorMoveable>
                 <LinkedObject>
                   <Group>12</Group>
@@ -15785,7 +15923,7 @@ ${LH=2.0}${IMG=:sockets}</Text>
                 <RenderModes/>
                 <Editable>0</Editable>
                 <UseAnchor>1</UseAnchor>
-                <Anchor>0.071 1.01</Anchor>
+                <Anchor>0.071 1.11</Anchor>
                 <AnchorMoveable>0</AnchorMoveable>
                 <LinkedObject>
                   <Group>12</Group>
@@ -15836,7 +15974,7 @@ ${LH=2.0}${IMG=:sockets}</Text>
                 <RenderModes/>
                 <Editable>0</Editable>
                 <UseAnchor>1</UseAnchor>
-                <Anchor>-0.091 1.045</Anchor>
+                <Anchor>-0.091 1.095</Anchor>
                 <AnchorMoveable>0</AnchorMoveable>
                 <LinkedObject>
                   <Group>12</Group>
@@ -17226,9 +17364,9 @@ ${LH=2.0}${IMG=:sockets}</Text>
             <Container/>
           </LinkLines>
           <Camera3d>
-            <AngleZ>35.92298508</AngleZ>
+            <AngleZ>-17.17808151</AngleZ>
             <FirstUse>0</FirstUse>
-            <Matrix>0.994 0.065 -0.09 0 0.111 -0.583 0.805 0 -0 -0.81 -0.587 0 -1.824 2.102 -5.629 1</Matrix>
+            <Matrix>-0.094 -0.294 -0.951 0 0.996 -0.028 -0.09 0 -0 -0.955 0.295 0 -9.945 -1.795 -0.388 1</Matrix>
             <FovY>90</FovY>
             <Height>1.600000024</Height>
             <Parents>
@@ -17239,13 +17377,13 @@ ${LH=2.0}${IMG=:sockets}</Text>
             </Parents>
             <Children/>
             <Aabb2d>
-              <Min>-0.162 -0.162</Min>
-              <Max>0.162 0.162</Max>
+              <Min>-0.198 -0.198</Min>
+              <Max>0.198 0.198</Max>
             </Aabb2d>
-            <Angle>366.3636169</Angle>
+            <Angle>95.41500854</Angle>
             <Scale>1 1</Scale>
-            <Pos>1.171 5.958 0</Pos>
-            <Visible>0</Visible>
+            <Pos>-1.835 9.816 0</Pos>
+            <Visible>1</Visible>
           </Camera3d>
           <Height>2.5</Height>
           <Columnes>
@@ -67619,6 +67757,75 @@ ${LH=2.0}${IMG=:sockets}</Text>
               </Textures>
               <NameMcd/>
             </SecondN1335>
+            <FirstN1336>1442</FirstN1336>
+            <SecondN1336>
+              <Local>1</Local>
+              <Changed>1</Changed>
+              <Name>Models\3D\8. Разное\Кондиционер.dat</Name>
+              <Model>
+                <Materials>
+                  <Container>
+                    <N0>
+                      <Name>Material__26</Name>
+                      <Texture/>
+                      <Color>1 1 1 0</Color>
+                      <Du>1</Du>
+                      <Dv>1</Dv>
+                      <Material>0</Material>
+                      <MaterialColor>0 0 0</MaterialColor>
+                    </N0>
+                  </Container>
+                </Materials>
+              </Model>
+              <Textures/>
+              <NameMcd/>
+            </SecondN1336>
+            <FirstN1337>1443</FirstN1337>
+            <SecondN1337>
+              <Local>1</Local>
+              <Changed>1</Changed>
+              <Name>Models\3D\8. Разное\Кондиционер.dat</Name>
+              <Model>
+                <Materials>
+                  <Container>
+                    <N0>
+                      <Name>Material__26</Name>
+                      <Texture/>
+                      <Color>1 1 1 0</Color>
+                      <Du>1</Du>
+                      <Dv>1</Dv>
+                      <Material>0</Material>
+                      <MaterialColor>0 0 0</MaterialColor>
+                    </N0>
+                  </Container>
+                </Materials>
+              </Model>
+              <Textures/>
+              <NameMcd/>
+            </SecondN1337>
+            <FirstN1338>1444</FirstN1338>
+            <SecondN1338>
+              <Local>1</Local>
+              <Changed>1</Changed>
+              <Name>Models\3D\8. Разное\Кондиционер.dat</Name>
+              <Model>
+                <Materials>
+                  <Container>
+                    <N0>
+                      <Name>Material__26</Name>
+                      <Texture/>
+                      <Color>1 1 1 0</Color>
+                      <Du>1</Du>
+                      <Dv>1</Dv>
+                      <Material>0</Material>
+                      <MaterialColor>0 0 0</MaterialColor>
+                    </N0>
+                  </Container>
+                </Materials>
+              </Model>
+              <Textures/>
+              <NameMcd/>
+            </SecondN1338>
           </Container>
         </Models>
         <DirectionalLight>
@@ -67653,9 +67860,9 @@ ${LH=2.0}${IMG=:sockets}</Text>
         </GroundFloor>
       </Scene>
     </History>
-    <CurrentGridPixels>31.93247032</CurrentGridPixels>
-    <GridCenterX>572.961792</GridCenterX>
-    <GridCenterY>55.05422974</GridCenterY>
+    <CurrentGridPixels>40.4022522</CurrentGridPixels>
+    <GridCenterX>554.4530029</GridCenterX>
+    <GridCenterY>191.0276337</GridCenterY>
     <TextureWhite3d>4</TextureWhite3d>
     <ShowAllLevels>0</ShowAllLevels>
     <Params>
@@ -67676,9 +67883,9 @@ ${LH=2.0}${IMG=:sockets}</Text>
       <LevelSlabColor>0.925 0.882 0.675</LevelSlabColor>
     </Params>
     <Camera2d>
-      <Distance>31.006073</Distance>
+      <Distance>24.506073</Distance>
       <DistanceIn>3.5</DistanceIn>
-      <TranslateVec>-2.709 -6.012 -0</TranslateVec>
+      <TranslateVec>-2.37 -3.069 -0</TranslateVec>
       <AngleOx>0</AngleOx>
       <AngleOy>0</AngleOy>
     </Camera2d>
